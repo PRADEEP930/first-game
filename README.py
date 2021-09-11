@@ -1,3 +1,8 @@
+
+#It is a simple game.It ask questions about your age and you eligible to go outside during pandemic 
+#,it also ask some question and make us some basic awareness during this pandemic situation.
+
+
 # first-game
 name=input("enter your name:")
 age=int(input("enter age:"))
